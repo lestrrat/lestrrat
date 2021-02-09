@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+Go/Perl hacker, but really jack of all trades. 20+ years coding, father of three beautiful boys.
+Fluent in English, Japanese, and some Portuguese.
+Conference organizer, wannabe video producer.
+
 <!--
 **lestrrat/lestrrat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +18,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![lestrrat's github stats](https://github-readme-stats.vercel.app/api?username=lestrrat&show_icons=true&count_private=true)
